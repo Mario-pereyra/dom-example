@@ -3,7 +3,7 @@ const personas = [
   {
     nombre: "Juan Perez",
     edad: 18,
-    email:"marioelprogamer710@gmail.com"
+    email:"pepitoperez@gmail.com
   },
   {
     nombre: "Maria Loza",
